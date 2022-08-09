@@ -4,19 +4,19 @@ dineroCliente3 = prompt ("cuanto dinero tienes, cliente3?");
 
 if (dineroCliente1 >= 1 && dineroCliente1 < 2)
 {
-alert ("comprate un donut")
+alert ("puedes comprarte uno de nata");
 }
 
 else if (dineroCliente2 >= 2 && dineroCliente2 < 3)
 {
-alert ("comprate una palmera de chocolate")
+alert ("puedes comprarte uno de chocolate");
 }
 
 else if (dineroCliente3 >= 3)
 {
-alert ("comprate una tarta")
+alert ("puedes comprarte uno de limon");
 }
 
 else {
-    alert("vas a morir de hambre")
-};
+    alert("vas a morir de hambre");
+}
