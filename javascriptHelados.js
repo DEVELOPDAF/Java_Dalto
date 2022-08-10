@@ -2,6 +2,8 @@ dineroCliente1 = prompt ("cuanto dinero tienes, cliente1?");
 dineroCliente2 = prompt ("cuanto dinero tienes, cliente2?");
 dineroCliente3 = prompt ("cuanto dinero tienes, cliente3?");
 
+dineroCliente1 = parseInt(dineroCliente1);
+
 if (dineroCliente1 >= 1 && dineroCliente1 < 2)
 {
 alert ("puedes comprarte uno de nata");
