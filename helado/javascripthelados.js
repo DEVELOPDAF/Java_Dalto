@@ -15,7 +15,7 @@ else if (dineroPedro >=3 && dineroPedro < 4) {
     alert ("Pedro, comprate el helado de Fresa")
     alert ("y te sobran, " + (dineroPedro - 2.6))
 }
-else if (dineroPedro >=4 && dineroPedro < 5) { 
+else if (dineroPedro >=4 ) { 
     alert ("Pedro, comprate el helado de Coco")
     alert ("y te sobran, " + (dineroPedro - 3.5))
 }
@@ -36,7 +36,7 @@ else if (dineroJuan >=3 && dineroJuan < 4) {
     alert ("Juan, comprate el helado de Fresa")
     alert ("y te sobran, " + (dineroJuan - 2.6))
 }
-else if (dineroJuan >=4 && dineroJuan < 5) { 
+else if (dineroJuan >=4 ) { 
     alert ("Juan, comprate el helado de Coco")
     alert ("y te sobran, " + (dineroJuan - 3.5))
 }
@@ -57,7 +57,7 @@ else if (dineroLuis >=3 && dineroLuis < 4) {
     alert ("Luis, comprate el helado de Fresa")
     alert ("y te sobran, " + (dineroLuis - 2.6))
 }
-else if (dineroLuis >=4 && dineroLuis < 5) { 
+else if (dineroLuis >=4 ) { 
     alert ("Luis, comprate el helado de Coco")
     alert ("y te sobran, " + (dineroLuis - 3.5))
 }
@@ -78,7 +78,7 @@ else if (dineroJavier >=3 && dineroJavier < 4) {
     alert ("Javier, comprate el helado de Fresa")
     alert ("y te sobran, " + (dineroJavier - 2.6))
 }
-else if (dineroJavier >=4 && dineroJavier < 5) { 
+else if (dineroJavier >=4 ) { 
     alert ("Javier, comprate el helado de Coco")
     alert ("y te sobran, " + (dineroJavier - 3.5))
 }
