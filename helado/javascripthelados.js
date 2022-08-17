@@ -1,7 +1,7 @@
 dineroPedro = prompt("cuanto dinero tienes, Pedro?");
 dineroJuan =prompt("cuanto dinero tienes, Juan?");
 dineroLuis = prompt("cuanto dinero tienes, Luis?");
-dineroJavier = prompt("cuanto dinero tienes, Javier"?);
+dineroJavier = prompt("cuanto dinero tienes, Javier?");
 
 if (dineroPedro >= 0.5 && dineroPedro <= 1) {
     alert ("Pedro, comprate el helado de limón")
